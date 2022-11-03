@@ -1,0 +1,38 @@
+introdução ao git e github
+
+1 - controle de versão
+2 - armazenamento em nuvem
+3 - trabalho em equipe
+4 - melhorar seu codigo
+5 - reconhecimento 
+
+*GUI x CLI
+---------------
+Navegação
+
+Windows
+- tab : autocompletar
+- cd : change directore
+- dir : listar
+- mkdir : cria um diretorio
+- del/rmdir: del, deleta arquivos. rmdir, deleta o diretorio
+- cls: limpar a tela
+- > : redirecionador de fluxo
+
+Unix
+- cd : change directore
+- ls : listar
+- mkdir : cria um diretorio
+- rm -rf
+- clear: limpar a tela = ctrl + L
+
+-----------------------
+
+- iniciar o GIT
+	-git init
+	-git add
+	-git commit
+
+- iniciar o versionamento
+- criar um commit
+
